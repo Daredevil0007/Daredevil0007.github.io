@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Iris Scanning
 ### Overview of Iris Scanning
@@ -55,4 +55,4 @@ Threats
 
 	As this scanner is highly recommended for militaries it is must to train the people who use this scanner mostly on registering and accessing. 
 
-	The scanner should be used only in confidential area of an organization as the amount of iris scanners could increase the expenses on hardware.   
+	The scanner should be used only in confidential area of an organization as the amount of iris scanners could increase the expenses on hardware.
