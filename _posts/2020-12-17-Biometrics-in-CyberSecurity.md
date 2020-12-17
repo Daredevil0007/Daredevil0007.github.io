@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Iris Scanning
 ### Overview of Iris Scanning
